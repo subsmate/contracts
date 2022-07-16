@@ -2,36 +2,40 @@
 subsmate-contracts
 
 Active chains: #
+
 Planning chains: Polygon - Avalanche - Metis
 
+----------------------------------------------------------------------------------------------------
+
+Polygon Contracts: #
+
+  DAPP: #
+  
+  Vault: #
+  
+  Token: #
+  
 --------------------------------------------------
-
-Polygon Contracts:
-
-  DAPP:
-  
-  Vault:
-  
-  Token:
-  
 
 Avalanche Contracts:
 
-  DAPP:
+  DAPP: #
   
-  Vault:
+  Vault: #
  
-  Token:
+  Token: #
   
+--------------------------------------------------
 
 Metis Contracts:
 
-  DAPP:
+  DAPP: #
   
-  Vault:
+  Vault: #
   
-  Token:
-  
+  Token: #
+   
+--------------------------------------------------
 
 Updating...
 
