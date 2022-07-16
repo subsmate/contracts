@@ -5,6 +5,7 @@ Active chains: #
 Planning chains: Polygon - Avalanche - Metis
 
 --------------------------------------------------
+--------------------------------------------------
 
 Polygon Contracts:
   DAPP:
